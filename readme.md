@@ -1,0 +1,5 @@
+# CS 451 - Artificial Intelligence
+
+## Assignments
+
+- [Assignment 1](assignments/assignment-1/)
